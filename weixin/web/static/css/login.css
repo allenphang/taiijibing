@@ -1,0 +1,53 @@
+
+.login_c {
+    float: left;
+    margin-left: 5%;
+    margin-top: 30px;
+    width: 90%;
+}
+.login_input_item {
+    float: left;
+    height: 50px;
+    position: relative;
+    width: 100%;
+  
+}
+.login_icon {
+    float: left;
+    
+}
+.login_input {
+    border: 0 none;
+    display: inline-block;
+    height: 35px;
+    margin-top: 7px;
+    width: 60%;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color:#ffffff;
+      padding-left:20px;
+}
+.login_input_code {
+    border: 0 none;
+    display: inline-block;
+    float: left;
+    height: 35px;
+    margin-top: 7px;
+    width: 140px;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color:#ffffff;
+    padding-left:12px;
+}
+.login_input_item_left {
+    float: left;
+    width: 180px;
+    
+}
+.login_input_item_right {
+    float: right;
+    margin-top: 5px;
+    width: 90px;
+}
+.submitBtn {
+    margin-top: 40px;
+    width: 100%;
+}
